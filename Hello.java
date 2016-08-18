@@ -3,7 +3,7 @@ public class Hello{
 		System.out.println("Hello Git. Let's see");
 		System.out.println("Changes after first commit");	
 		System.out.println("Changes after first commit");	
-
+                System.out.println("Changes after first commit");
 }
 	}
 
