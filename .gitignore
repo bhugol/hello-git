@@ -1,0 +1,11 @@
+#.gitignore
+
+#java class files
+*.class
+
+#object files
+*.[oa]
+
+#executables
+*.exe
+
